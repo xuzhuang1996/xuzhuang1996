@@ -5,3 +5,6 @@
 xuzhuang1996/xuzhuang1996 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+## TODO
+1. CUDA kernel、GPU memory（global、shared、register）、GPU并行（parallel reduction、prefix sum、parallel sort）
+2. 3DGS Renderer
